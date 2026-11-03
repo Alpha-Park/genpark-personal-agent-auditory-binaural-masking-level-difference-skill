@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-auditory-binaural-masking-level-difference-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency sovereign personal agent skill for calculating Auditory Binaural Masking Level Difference (BMLD), brainstem squelch kinetics, and cocktail party speech-in-noise intelligibility.",
+  "author": "AlphaPark Inc.",
+  "license": "Apache-2.0",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ]
+}
